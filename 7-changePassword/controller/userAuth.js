@@ -102,4 +102,3 @@ const changePass=async(req,res)=>{
 
 }
 export  {userRegister,login,forgotPassword,changePass};
-// export default login;
